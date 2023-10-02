@@ -1,0 +1,38 @@
+.images{
+    grid-template-columns: max-content;
+
+}
+
+body{
+background-color:rgb(222, 228, 250);
+margin-left: 75PX;
+}
+.images img{
+    margin-right: 50px;
+    width: 320px;
+    height: 250px;
+  
+    border-radius: 10px;
+  
+
+}
+button{
+    background-color: rgb(105, 105, 251);
+    border: none;
+    padding: 10px 20px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+}
+
+h1{
+    margin-top: 50px;
+    text-align: center;
+ 
+
+}
+h2{
+    color: rgb(6, 6, 144);
+}

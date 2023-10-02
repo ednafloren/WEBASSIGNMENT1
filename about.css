@@ -1,0 +1,40 @@
+.p-1 {
+    color:rgb(0, 10, 10);
+    font-weight: 500;
+    font-size: 30px;
+}
+.p-2 {
+    color:#000201;
+}
+.p-3 {
+    color:brown;
+}
+.p-4 {
+    color:#8a2be2;
+}
+.p-5 {
+    color:rgb(40, 18, 169);
+}
+
+
+
+body{
+    background-color: rgb(222, 228, 250);
+    text-align: justify;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 10%;
+}
+button{
+    background-color: rgb(105, 105, 251);
+    border: none;
+    padding: 10px 20px;
+}
+a{
+    text-decoration: none;
+    color:white;
+    font-size: 18px;
+}
+h1{
+    color:rgb(3, 3, 133) ;
+    font-size: 40px;
+}

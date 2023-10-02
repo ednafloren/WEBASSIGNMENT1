@@ -1,0 +1,29 @@
+navbar{
+    text-decoration: none;
+    padding: 20px;
+    background-color: rgb(105, 105, 251);
+}
+navbar a{
+    text-decoration: none;
+    padding:16px;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+ 
+    color: white;
+}
+navbar a:hover{
+    color :rgb(240, 70, 8)
+}
+navbar a:active{
+    color:rgb(61, 4, 45);
+}
+
+h1{
+   color: rgb(22, 22, 50); 
+   font-size: 30px;
+}
+body{
+    text-align: center;
+    margin-top: 20%;
+    background-color: rgb(222, 228, 250);
+}
